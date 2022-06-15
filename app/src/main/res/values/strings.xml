@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">UniversityMap</string>
+    <string name="spinner_university_label">University</string>
+</resources>
